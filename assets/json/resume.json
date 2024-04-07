@@ -22,18 +22,64 @@
       }
     ]
   },
-  "work": [
+  "research": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "Sreekanth Chalasani Lab, Salk Institute for Biological Studies",
+      "position": "Postdoctoral Researcher",
+      "url": "https://chalasani.salk.edu/",
+      "startDate": "2019-09-01",
+      "endDate": "2024-04-01",
+      "summary": "Project: Molecular regulation of *C. elegans* defensive responses to predatory threats",
+      "highlights": [""]
+    },
+        {
+      "name": "Sreekanth Chalasani Lab, Salk Institute for Biological Studies",
+      "position": "Graduate Student",
+      "url": "https://chalasani.salk.edu/",
+      "startDate": "2012-09-01",
+      "endDate": "2019-09-01",
+      "summary": "Dissertation: Characterization of *Pristionchus pacificus* as a nematode model of aggression",
+      "highlights": [""]
+    },
+        {
+      "name": "Mirella Dapretto Lab, Psychiatry and Biobehavioral Sciences, University of California, Los Angeles",
+      "position": "Undergraduate Research Assistant, ",
+      "url": "http://bmap.ucla.edu/about/peopledetails/mirella_dapretto/",
+      "startDate": "2010-06-01",
+      "endDate": "2009-02-01",
+      "summary": "Thesis: Abnormal effective connectivity during emotional face processing in children with autism spectrum disorders",
+      "highlights": [""]
+    },
+        {
+      "name": "Jack Van Horn, Neurology, University of California, Los Angeles",
+      "position": "Undergraduate Research Assistant, ",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2010-01-01",
+      "summary": "Project: Graphical user interface design for Invizian neuroinformatics software",
+      "highlights": [""]
+    },
+        {
+      "name": "Susan Bookheimer, Psychiatry and Biobehavioral Sciences, University of California, Los Angeles",
+      "position": "Undergraduate Research Assistant, ",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2009-03-01",
+      "summary": "Project: Eye gaze behavior of 36-month old infants with autism spectrum disorders and their siblings during social interaction with caregivers and strangers",
+      "highlights": [""]
+    }  
+        {
+      "name": "Jeffrey Wood, Child and Adolescent Psychiatry, Semel Institute for Neuroscience and Human Behavior, University of California, Los Angeles",
+      "position": "Undergraduate Research and Therapy Assistant, ",
+      "url": "",
+      "startDate": "2009-09-01",
+      "endDate": "2007-06-01",
+      "summary": "Project: Cognitive behavioral therapy for treatment of anxiety in children with autism spectrum disorders",
+      "highlights": [""]
+    }  
+    
   ],
-  "volunteer": [
+  "outreach": [
     {
       "organization": "People's Climate March",
       "position": "Lead Organizer",
@@ -46,15 +92,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, San Diego",
+      "location": "San Diego, California, United States",
+      "url": "https://neurosciences.ucsd.edu/",
+      "area": "Neuroscience",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2012-09-01",
+      "endDate": "2019-09-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Specialization: Computational Neuroscience"]
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, California, United States",
+      "url": "https://www.neurosci.ucla.edu/",
+      "area": "Neuroscience",
+      "studyType": "BS",
+      "startDate": "2006-09-01",
+      "endDate": "2010-06-01",
+      "score": "10",
+      "courses": [""]
     }
   ],
   "awards": [
