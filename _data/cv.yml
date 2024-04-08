@@ -1,97 +1,385 @@
-- title: General Information
+- title: general information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: name
+      value: Kathleen T Quach
+    - name: email
+      value: <a href="mailto:kquach@salk.edu">kquach@salk.edu</a>
+    - name : summary
+      value: A behavioral neuroscientist with ten years of independent research experience, specializing in the application of ethological, neuroeconomic, and other behavioral frameworks to analyze decision-making processes of both predatory and prey in naturalistic predator-prey interactions in a laboratory setting. 
 
-- title: Education
+- title: education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+    - year: 2019
+      position: PhD
+      department: Neurosciences, Specialization in Computational Neuroscience
+      institution: University of California, San Diego
+      location: Seattle, Washington, United States
+    - year: 2010
+      position: BS
+      department: Neuroscience
+      institution: University of California, Los Angeles
+      location: Los Angeles, California, United States
+
+- title: research experience
+  type: time_table
+  contents:
+    - year: 2019.09 - 2024.04
+      position: Postdoctoral Fellow
+      lab: "PI: Sreekanth Chalasani"
+      department: Molecular Neurobiology
+      institution: Salk Institute for Biological Studies
+      location: La Jolla, California, United States
+      description: 
+        - Led projects investigating the decision-making and molecular regulation of defensive behaviors by <i>Caenorhabditis elegans</i> nematodes in response to <i>Pristionchus pacificus</i> predators.
+        - Integrated concepts from predatory imminence theory and prey refuge theory to build a behavioral framework that can be used to predict, elicit, and interpret <i>Caenorhabditis elegans</i> defensive behaviors in response to changes in various dimensions of perceived predation risk. 
+        - Conducted behavioral experiments on genetic mutants and transgenic strains to identify changes in interdependence between signaling partners across stages of defensive behaviors. 
+    - year: 2012.07 - 2019.09
+      position: Graduate Student
+      lab: "PI: Sreekanth Chalasani"
+      department: Molecular Neurobiology
+      institution: Salk Institute for Biological Studies
+      location: La Jolla, California, United States
+      description: 
+        - Led projects investigating the decision-making and molecular regulation of foraging decisions by <i>Pristionchus pacificus</i> predatory nematodes in response to predator-prey competition with <i>Caenorhabditis elegans</i> prey nematodes.
+        - Integrated concepts from foraging theory, neuroeconomic theory, and intraguild predation theory to build a behavioral framework that can be used to predict, elicit, and distinguish between predatory and territorial motivations for attacking <i>Caenorhabditis elegans</i>. 
+        - Conducted a screen of pharmacologically active compounds to identify signaling mechanisms underlying the switch between predatory and territorial motivation, using the behavioral framework to directly target decision-making processes rather than motor or sensory processes.      
+        - title: Other projects 
+          contents: 
+          - Co-led a project investigating whole-brain activity of <i>Caenorhabditis elegans</i> nematodes to understand how state-dependent network interactions gate sensory input at the motor and command neuron level
+          - Supported a project investigating neural regulation of hypoxia reponses in <i>Danio rerio</i> zebrafish. 
+    - year: 2009.02 - 2010.06
+      position: Undergraduate Research Assistant
+      lab: "PI: Mirella Dapretto"
+      department: Psychiatry and Biobehavioral Sciences
+      institution: University of California, Los Angeles
+      location: Los Angeles, California, United States
+      description: 
+        - Conducted independent research investigating abnormal effective connectivity during emotional face processing in children with autism spectrum disorders.
+        - Applied dynamic causal modeling to fMRI time series data to estimate directionality and strength of coupling between brain regions during viewing of emotional faces. 
+        - Developed methods for automating data entry of survey inputs from test subjects.
+    - year: 2010.01 - 2010.06
+      position: Undergraduate Research Assistant
+      lab: "PI: Jack Van Horn"
+      department: Neurology
+      institution: University of California, Los Angeles
+      location: Los Angeles, California, United States
+      description: 
+        - Designed graphical user interface elements for Invizian neuroinformatics software.
+    - year: 2009.03 - 2010.06
+      position: Undergraduate Research Assistant
+      lab: "PI: Susan Bookheimer"
+      department: Psychiatry and Biobehavioral Sciences
+      institution: University of California, Los Angeles
+      location: Los Angeles, California, United States
+      description: 
+        - Scored eye gaze behavior of 36-month old infants with autism spectrum disorders and their siblings during social interaction with caregivers and strangers.
+        - Drew regions of interests to quantify how much time is spent looking at facial, body, and background features. 
+        - Developed code for automated parsing of Tobii software output. 
+    - year: 2007.06 - 2009.09
+      position: Undergraduate Research and Therapist Assistant
+      lab: "PI: Jeffrey Wood"
+      department: Child and Adolescent Psychiatry
+      institution: Semel Institute, University of California, Los Angeles
+      location: Los Angeles, California, United States
+      description: 
+        - Assisted in cognitive behavioral therapy for treatment of anxiety in children with autism spectrum disorders.
+        - Performed data entry of therapy intake assessments and patient questionnaires for analysis in SPSS. 
+
+- title: industry experience
+  type: time_table
+  contents:
+    - position: Implementation Specialist 
+      institution: Starbucks Coffee Company
+      location: Seattle, Washington, United States
+      year: 2011.12 - 2012.06
+      description: 
+        - Analyzed data and implemented strategies for optimizing the function of retail networks and public Wi-Fi in over 10,000 Starbucks stores across North America.
+
+- title: teaching and outreach experience
+  type: time_table
+  contents:
+    - year: 2023.11 - 2023.12
+      position: Application Reviewer
+      department: Summer Undergraduate Research Fellowship (SURF)
+      institution: Salk Institute for Biological Studies
+      location: La Jolla, California, United States
+      description: 
+        - Reviewed anonymized applications based on a rubric that assessed need and career goals. 
+    - year: 2023.06.12
+      position: Developer & Presenter
+      lab: "Workshop: Thinking like a Scientist"
+      department: Summer Undergraduate Research Fellowship (SURF)
+      institution: Salk Institute for Biological Studies
+      location: La Jolla, California, United States
+      description: 
+        - Developed and presented a workshop introducing undergraduate interns to the values and philosophy guiding scientific research, and the principles of fostering a scientific personality resilient to failures and biases.
+    - year: 2023.05 - 2023.08
+      position: Mentor
+      department: Summer Undergraduate Research Fellowship (SURF)
+      institution: Salk Institute for Biological Studies
+      location: La Jolla, California, United States
+      description: 
+        - Intensively mentored undergraduates from under-resourced insititutions to perform independent research in a 10-week program. 
+        - Mentee investigated the genetic expression of oxidative stress genes in prey exposed to various predator conditions. 
+    - year: 2022.05 - 2022.08
+      position: Mentor
+      department: Summer Undergraduate Research Fellowship (SURF)
+      institution: Salk Institute for Biological Studies
+      location: La Jolla, California, United States
+      description: 
+        - Intensively mentored undergraduates from under-resourced insititutions to perform independent research in a 10-week program. 
+        - Mentee investigated the role of a serotonin receptor in the resilience of prey exposed to predator early or late in life. 
+    - year: 2020.09 - 2021.02
+      position: Mentor
+      department: Biology Undergraduate and Master's Mentorship Program (BUUMP)
+      institution: University of California, San Diego
+      location: La Jolla, California, United States
+      description: 
+        - Mentored biology undergraduate students from underrepresented minorities.
+    - year: 2016.08 - 2017.08
+      position: Organizer
+      department: San Diego Computer Coding Club
+      location: San Diego, California, United States
+      description: 
+        - Developed a curriculum to introduce and develop computer programming skills among underserved middle and high school students in the U.S. and Mexico. 
+    - year: 2016.03 - 2016.06
+      position: Course Developer & Instructor
+      department: "Course: Fundamentals of Statistics and Computation for Neuroscientists"
+      institution: University of California, San Diego
+      location: La Jolla, California, United States
+      description: 
+        - Developed and taught a graduate-level introductory curriculum designed to provide literacy in and exposure to computational techniques.
+    - year: 2015.09 - 2015.12
+      position: Teaching Assistant
+      department: "Course: Introduction to Methods in Computational Neuroscience"
+      institution: University of California, San Diego
+      location: La Jolla, California, United States
+      description: 
+        - Assisted in teaching a graduate-level course on mathematical foundations and applications of computational neuroscience methods.
+    - year: 2022.09 - 2022.11
+      position: Tutor
+      department: Chemistry
+      institution: Monarch School
+      location: San Diego, California, United States
+      description: 
+        - Tutored chemistry to students impacted by homelessness to compensate for shortage of science teachers.
+
+
+- title: publications
+  type: time_table
+  contents:
+    - publink: <a href="../publications/">Click here to view a detailed list of publications</a>
+    - pubtitle: Interdependence between SEB-3 and NLP-49 peptides shifts across predator-induced defensive behavioral modes in <i>Caenorhabditis elegans</i>
+      author: <u>Kathleen T Quach</u>, Gillian A Hughes, Sreekanth H Chalasani
+      journal: submitted to <i>eLife,</i> 2024
+    - pubtitle: <a href="https://doi.org/10.1016/j.cub.2022.02.033">Flexible reprogramming of <i>Pristionchus pacificus</i>  motivation for attacking <i>Caenorhabditis elegans</i> in predator-prey competition</a>
+      author: <u>Kathleen T Quach</u>, Sreekanth H Chalasani
+      journal: <i>Current Biology,</i> 2022
+    - pubtitle: <a href="https://doi.org/10.1101/2021.04.09.439242">State-dependent network interactions differentially gate sensory input at the motor and command neuron level in <i>Caenorhabditis elegans</i></a>
+      author: Zachary T Cecere*, <u>Kathleen T Quach*</u>, Eviatar Yemini, Javier J How, Tatyana O Sharpee, Sreekanth H Chalasani (*co-first authors)
+      journal: <i>bioRxiv,</i> 2021
+    - pubtitle: <a href="https://doi.org/10.1080/01677063.2020.1833004">Intraguild predation between <i>Pristionchus pacificus</i> and <i>Caenorhabditis elegans:</i> a complex interaction with the potential for aggressive behaviour</a>
+      author: <u>Kathleen T Quach</u>, Sreekanth H Chalasani
+      journal: <i>Journal of Neurogenetics,</i> 2020
+
+- title: awards
+  type: time_table
+  contents:
+    - year: 2022.12 - 2024.11
+      basic: Maximillian E. and Marion O. Hoffman Foundation Award
+    - year: 2020.06 - 2022.06
+      basic: Paul F. Glenn Center for Biology of Aging Research Fellow
+    - year: 2018.07 - 2019.07
+      basic: Salk Women and Science Award
+    - year: 2018.03 - 2019.03
+      basic: Mary K. Chapman Foundation Award   
+    - year: 2018.10 - 2018.03
+      basic: Jesse and Caryl Philips Foundation Award 
+    - year: 2016.05.21
+      basic: Neurosciences Graduate Teaching Award
+    - year: 2014.09 - 2017.08
+      basic: National Science Foundation Graduate Research Fellow
+
+- title: skills
+  type: time_table
+  contents: 
+    - publink: laboratory
+      description: 
+        - title: model organisms
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+          - <i>Caenorhabditis elegans</i> (nematode)
+          - <i>Pristionchus pacificus</i> (nematode)
+          - <i>Danio rerio</i> (zebrafish)
+          - human
+        - title: nematode behavior
+          contents: 
+          - predator-prey interaction
+          - foraging
+          - chemotaxis
+          - apaptation
+          - food switching
+          - exploration
+          - egg-laying
+        - title: microscopy
+          contents: 
+          - brightfield/DIC/fluorescence
+          - light/confocal
+          - laser microsurgery
+          - calcium imaging
+          - expansion
+        - title: staining
+          contents: 
+          - immunocytochemistry
+          - DiI/DiO (neuronal tracer)
+          - Oil Red O (fat)
+        - title: pharmacology
+          contents: 
+          - drug screens using LOPAC 1280
+          - neurotransmitters and associated agonists/antagonists
+          - paralytics
+        - title: microfluidics
+          contents: 
+          - device fabrication
+          - device operation
+          - automated control of laminar flows
+        - title: bacteria
+          contents: 
+          - culturing/incubation
+          - streaking/spreading/plating
+          - colony counting
+          - spectrophotometry
+          - transformation
+          - antibiotic selection
+        - title: molecular biology
+          contents: 
+          - cloning 
+          - plasmid/amplified/genomic DNA purification
+          - RNA purification
+          - PCR
+          - primer design
+          - gel electrophoresis
+          - RNAseq/DNAseq
+          - NanoDrop
+          - Qubit
+          - TapeStation
+    - publink: computational methods
+      description: 
+      - title: theories and frameworks
+        contents:
+          - foraging theory
+          - expected utility theory
+          - intraguild predation
+          - predatory imminence theory
+          - prey refuge theory
+          - information theory
+      - title: statistics
+        contents:
+          - parametric/non-parametric tests for nominal variables
+          - parametric/non-parametric tests for one/multiple measurement variables
+          - analysis of covariance
+          - linear/nonlinear correlation
+          - linear/logistic regression models
+          - linear mixed-effects models
+          - bootstrapping
+          - data transformation
+          - distributional analysis
+          - power analysis
+          - machine-learning
+      - title: image processing
+        contents: 
+          - image segmentation
+          - image deconvolution
+          - morphological processing
+          - fluorescence intensity quantification
+          - color deconvolution
+      - title: neural dynamics
+        contents:  
+          - time series analysis
+          - dimensionality reduction
+          - network analysis
+          - network modeling
+    - publink: software, platforms, and languages
+      description: 
+      - title: scientific computing
+        contents:
+          - MATLAB
+          - R
+      - title: image acquisition and processing
+        contents: 
+          - ImageJ
+          - Zen
+          - Streampix
+          - Metamorph
+      - title: bioinformatics
+        contents: 
+          - APE
+          - Geneious
+          - BLAST
+          - Primer-BLAST
+          - Galaxy
+          - UCSC Genome Browser
+          - IGV
+      - title: OS
+        contents: 
+          - Linux (Ubuntu)
+          - Windows
+      - title: Adobe 
+        contents: 
+          - Acrobat
+          - Illustrator
+          - Photoshop
+          - InDesign
+      - title: Microsoft Office
+        contents:
+          - OneNote
+          - Excel
+          - Word
+      - title: Google
+        contents:
+          - Drive
+          - Docs
+          - Sheets
+          - Slides
+          - Forms
+      - title: collaboration
+        contents: 
+        - Zoom
+        - Slack
+      - title: electronic lab notebook
+        contents: 
+        - Benchling
+      - title: command line
+        contents: 
+        - BASH
+        - Powershell
+      - title: web
+        contents:
+        - HTML
+        - Markdown
+        - CSS
+      - title: typesetting
+        contents: 
+        - LaTeX
+        - Overleaf
+        - TeXmaker
+      - title: version control
+        contents: 
+        - Git
+        - Github
+      - title: container
+        contents: 
+        - Docker
+      - title: IDE
+        contents: 
+        - Visual Studio
+      - title: data serialization formats
+        contents: 
+        - JSON 
+        - YAML
+      - title: diagramming
+        contents:
+        - PlantUML
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    

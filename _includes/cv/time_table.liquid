@@ -3,56 +3,64 @@
     <li class="list-group-item">
       <div class="row">
         {% if content.year %}
-          <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px">
+          <div class="col-xs-3 cl-sm-3 col-md-3 mt-2 mt-md-n1" style="color: var(--global-theme-color)">
             <table class="table-cv">
               <tbody>
                 <tr>
                   <td>
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                    <span class="font-weight-bold align-middle"; style="color: var(--global-theme-color); min-width: 75px; white-space: nowrap;">
                       {{- content.year -}}
                     </span>
                   </td>
                 </tr>
-                {% if content.location %}
-                  <tr>
-                    <td>
-                      <p class="location">
-                        <i class="fa-solid fa-location-dot iconlocation"></i>
-                        {{ content.location }}
-                      </p>
-                    </td>
-                  </tr>
-                {% endif %}
+
               </tbody>
             </table>
           </div>
         {% endif %}
-        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-          {% if content.title %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">{{ content.title }}</h6>
+        
+        
+        {% if content.pubtitle %}
+          <h6 class="pubtitle font-weight-light col-xs-12 cl-sm-12 col-md-12 mt-2 mt-md-0" style="color: var(--global-theme-color)">{{ content.pubtitle }}</h6>
+        {% endif %}
+        {% if content.publink %}
+          <h6 class="publink font-weight-bold col-xs-12 cl-sm-12 col-md-12 mt-2 mt-md-0" style="color: var(--global-theme-color)">{{ content.publink }}</h6>
+        {% endif %}   
+        {% if content.author %}
+          <h6 class="author font-weight-light col-xs-12 cl-sm-12 col-md-12 mt-2 mt-md-0">{{ content.author }}</h6>
+          {% endif %}   
+        {% if content.journal %}
+          <h6 class="journal font-weight-light col-xs-12 cl-sm-12 col-md-12 mt-2 mt-md-0">{{ content.journal }}</h6>
+        {% endif %}  
+      
+        <div class="col-xs-9 cl-sm-9 col-md-9 mt-2 mt-md-0">
+          {% if content.position %}
+            <h6 class="position font-weight-bold ml-1 ml-md-4">{{ content.position }}</h6>
           {% endif %}
-          {% if content.department or content.institution %}
+          {% if content.lab %}
+          <h6 class="lab font-weight-light ml-1 ml-md-4">{{ content.lab }}</h6>
+          {% endif %}
+          {% if content.department %}
+          <h6 class="department font-weight-light ml-1 ml-md-4">{{ content.department }}</h6>
+          {% endif %}
+          {% if content.institution %}
+          <h6 class="institution font-weight-light ml-1 ml-md-4">{{ content.institution }}</h6>
+          {% endif %}
+          {% if content.location %}
             <table class="table-cv ml-1 ml-md-4 institution">
               <tbody>
-                {% if content.institution %}
                   <tr>
-                    <td style="vertical-align: top; text-align: center" class="institution">
-                      <i class="fa-solid fa-building-columns iconinstitution"></i>
+                    <td style="vertical-align: top; text-align: center" class="location">
+                      <i class="fa-solid fa-location-dot iconlocation"></i>
                     </td>
-                    <td class="institution">{{ content.institution }}</td>
+                    <td class="location">{{ content.location }}</td>
                   </tr>
-                {% endif %}
-                {% if content.department %}
-                  <tr>
-                    <td style="vertical-align: top; text-align: center" class="department">
-                      <i class="fa-regular fa-circle-dot icondepartment"></i>
-                    </td>
-                    <td class="department">{{ content.department }}</td>
-                  </tr>
-                {% endif %}
               </tbody>
             </table>
-          {% endif %}
+          {% endif %} 
+          {% if content.basic %}
+          <h6 class="basic font-weight-light ml-1 ml-md-4">{{ content.basic }}</h6>
+          {% endif %} 
           {% if content.maindescription %}
             <div class="ml-1 ml-md-4">{{ content.maindescription }}</div>
           {% endif %}
@@ -96,6 +104,7 @@
               {% endfor %}
             </ul>
           {% endif %}
+          
           {% if content.linkitems %}
             <div class="container-links ml-1 ml-md-4">
               {% for item in content.linkitems %}
