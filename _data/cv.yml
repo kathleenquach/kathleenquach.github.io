@@ -6,7 +6,7 @@
     - name: email
       value: <a href="mailto:kquach@salk.edu">kquach@salk.edu</a>
     - name : summary
-      value: A behavioral neuroscientist with ten years of independent research experience, specializing in the application of ethological, neuroeconomic, and other behavioral frameworks to analyze decision-making processes of both predatory and prey in naturalistic predator-prey interactions in a laboratory setting. 
+      value: A behavioral neuroscientist with ten years of independent research experience, specializing in the application of ethological, neuroeconomic, and other behavioral frameworks to analyze decision-making processes of both predator and prey in naturalistic predator-prey interactions in a laboratory setting. 
 
 - title: education
   type: time_table
