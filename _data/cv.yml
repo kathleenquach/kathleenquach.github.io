@@ -15,13 +15,16 @@
       position: PhD
       department: Neurosciences, Specialization in Computational Neuroscience
       institution: University of California, San Diego
-      location: Seattle, Washington, United States
+      location: La Jolla, California, United States
+      description:
+        - "GPA: 3.618 / 4.000"
     - year: 2010
       position: BS
       department: Neuroscience
       institution: University of California, Los Angeles
       location: Los Angeles, California, United States
-
+      description:
+        - "GPA: 3.734 / 4.000"
 - title: research experience
   type: time_table
   contents:
