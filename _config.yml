@@ -254,8 +254,8 @@ defaults:
       sitemap: false
 
 sass:
-  style: compressed # <---- Uncomment when pushing
-  # sourcemap: never # <---- Comment out when pushing
+  # style: compressed # <---- Uncomment when pushing
+  sourcemap: never # <---- Comment out when pushing
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
