@@ -146,10 +146,10 @@
     - year: 2016.03 - 2016.06
       position: Course Developer & Instructor
       department: "Course: Fundamentals of Statistics and Computation for Neuroscientists"
-      institution: University of California, San Diego
+      institution: University of California, San Diego 
       location: La Jolla, California, United States
       description: 
-        - Developed and taught a graduate-level introductory curriculum designed to provide literacy in and exposure to computational techniques.
+        - Developed and taught a graduate-level introductory course designed to provide literacy in and exposure to computational techniques.
     - year: 2015.09 - 2015.12
       position: Teaching Assistant
       department: "Course: Introduction to Methods in Computational Neuroscience"
@@ -212,13 +212,12 @@
           - <i>Pristionchus pacificus</i> (nematode)
           - <i>Danio rerio</i> (zebrafish)
           - human
-        - title: nematode behavior
+        - title: behavior
           contents: 
           - predator-prey interaction
           - foraging
           - chemotaxis
-          - apaptation
-          - food switching
+          - adaptation
           - exploration
           - egg-laying
         - title: microscopy
@@ -232,17 +231,12 @@
           contents: 
           - immunocytochemistry
           - DiI/DiO (neuronal tracer)
-          - Oil Red O (fat)
+          - Oil Red O (fat stain)
         - title: pharmacology
           contents: 
           - drug screens using LOPAC 1280
           - neurotransmitters and associated agonists/antagonists
           - paralytics
-        - title: microfluidics
-          contents: 
-          - device fabrication
-          - device operation
-          - automated control of laminar flows
         - title: bacteria
           contents: 
           - culturing/incubation
@@ -251,21 +245,23 @@
           - spectrophotometry
           - transformation
           - antibiotic selection
+        - title: microfluidics
+          contents: 
+          - device fabrication
+          - device operation
+          - automated control of laminar flows
         - title: molecular biology
           contents: 
           - cloning 
-          - plasmid/amplified/genomic DNA purification
-          - RNA purification
+          - DNA/RNA purification
           - PCR
           - primer design
           - gel electrophoresis
-          - RNAseq/DNAseq
-          - NanoDrop
-          - Qubit
-          - TapeStation
+          - DNA/RNAseq
+          - DNA/RNA quantity/quality assessment
     - publink: computational methods
       description: 
-      - title: theories and frameworks
+      - title: theories & frameworks
         contents:
           - foraging theory
           - expected utility theory
@@ -275,9 +271,9 @@
           - information theory
       - title: statistics
         contents:
-          - parametric/non-parametric tests for nominal variables
-          - parametric/non-parametric tests for one/multiple measurement variables
-          - analysis of covariance
+          - tests for nominal variables
+          - parametric/non-parametric tests for one/multiple measurement variable(s)
+          - ANCOVA
           - linear/nonlinear correlation
           - linear/logistic regression models
           - linear mixed-effects models
@@ -299,7 +295,7 @@
           - dimensionality reduction
           - network analysis
           - network modeling
-    - publink: software, platforms, and languages
+    - publink: software, platforms, & languages
       description: 
       - title: scientific computing
         contents:
@@ -322,8 +318,8 @@
           - IGV
       - title: OS
         contents: 
-          - Linux (Ubuntu)
           - Windows
+          - Linux (Ubuntu)
       - title: Adobe 
         contents: 
           - Acrobat
@@ -332,9 +328,9 @@
           - InDesign
       - title: Microsoft Office
         contents:
-          - OneNote
-          - Excel
           - Word
+          - Excel
+          - OneNote
       - title: Google
         contents:
           - Drive
