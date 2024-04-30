@@ -17,14 +17,16 @@
       institution: University of California, San Diego
       location: La Jolla, California, United States
       description:
-        - "GPA: 3.618 / 4.000"
+        - "GPA: 3.734 / 4.000"
+        
     - year: 2010
       position: BS
       department: Neuroscience
       institution: University of California, Los Angeles
       location: Los Angeles, California, United States
       description:
-        - "GPA: 3.734 / 4.000"
+        - "GPA: 3.618 / 4.000"
+        
 - title: research experience
   type: time_table
   contents:
@@ -50,7 +52,7 @@
         - Conducted a screen of pharmacologically active compounds to identify signaling mechanisms underlying the switch between predatory and territorial motivation, using the behavioral framework to directly target decision-making processes rather than motor or sensory processes.      
         - title: Other projects 
           contents: 
-          - Co-led a project investigating whole-brain activity of <i>Caenorhabditis elegans</i> nematodes to understand how state-dependent network interactions gate sensory input at the motor and command neuron level
+          - Co-led a project investigating whole-brain activity of <i>Caenorhabditis elegans</i> nematodes to understand how state-dependent network interactions gate sensory input at the motor and command neuron level.
           - Supported a project investigating neural regulation of hypoxia reponses in <i>Danio rerio</i> zebrafish. 
     - year: 2009.02 - 2010.06
       position: Undergraduate Research Assistant
@@ -69,7 +71,7 @@
       institution: University of California, Los Angeles
       location: Los Angeles, California, United States
       description: 
-        - Designed graphical user interface elements for Invizian neuroinformatics software.
+        - Designed graphical user interface elements for <i>Invizian</i> neuroinformatics software.
     - year: 2009.03 - 2010.06
       position: Undergraduate Research Assistant
       lab: "PI: Susan Bookheimer"
@@ -141,12 +143,6 @@
       location: La Jolla, California, United States
       description: 
         - Mentored biology undergraduate students from underrepresented minorities.
-    - year: 2016.08 - 2017.08
-      position: Organizer
-      department: San Diego Computer Coding Club
-      location: San Diego, California, United States
-      description: 
-        - Developed a curriculum to introduce and develop computer programming skills among underserved middle and high school students in the U.S. and Mexico. 
     - year: 2016.03 - 2016.06
       position: Course Developer & Instructor
       department: "Course: Fundamentals of Statistics and Computation for Neuroscientists"
