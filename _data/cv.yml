@@ -6,7 +6,7 @@
     - name: email
       value: <a href="mailto:kquach@salk.edu">kquach@salk.edu</a>
     - name : summary
-      value: A behavioral neuroscientist with ten years of independent research experience, specializing in the application of ethological, neuroeconomic, and other behavioral frameworks to analyze decision-making processes of both predator and prey in naturalistic predator-prey interactions in a laboratory setting. 
+      value: A behavioral neuroscientist with ten years of independent research experience, specializing in the application of ethological, neuroeconomic, and other behavioral frameworks to analyze decision-making processes of predator-prey interactions. 
 
 - title: education
   type: time_table
@@ -40,6 +40,7 @@
         - Led projects investigating the decision-making and molecular regulation of defensive behaviors by <i>Caenorhabditis elegans</i> nematodes in response to <i>Pristionchus pacificus</i> predators.
         - Integrated concepts from predatory imminence theory and prey refuge theory to build a behavioral framework that can be used to predict, elicit, and interpret <i>Caenorhabditis elegans</i> defensive behaviors in response to changes in various dimensions of perceived predation risk. 
         - Conducted behavioral experiments on genetic mutants and transgenic strains to identify changes in interdependence between signaling partners across stages of defensive behaviors. 
+        - Supervised a research assistant. 
     - year: 2012.07 - 2019.09
       position: Graduate Student
       lab: "PI: Sreekanth Chalasani"
@@ -49,11 +50,12 @@
       description: 
         - Led projects investigating the decision-making and molecular regulation of foraging decisions by <i>Pristionchus pacificus</i> predatory nematodes in response to predator-prey competition with <i>Caenorhabditis elegans</i> prey nematodes.
         - Integrated concepts from foraging theory, neuroeconomic theory, and intraguild predation theory to build a behavioral framework that can be used to predict, elicit, and distinguish between predatory and territorial motivations for attacking <i>Caenorhabditis elegans</i>. 
-        - Conducted a screen of pharmacologically active compounds to identify signaling mechanisms underlying the switch between predatory and territorial motivation, using the behavioral framework to directly target decision-making processes rather than motor or sensory processes.      
+        - Conducted a screen of pharmacologically active compounds to identify signaling mechanisms underlying the switch between predatory and territorial motivation, using the behavioral framework to directly target decision-making processes rather than motor or sensory processes.   
+        - Supervised three research assistants.   
         - title: Other projects 
           contents: 
           - Co-led a project investigating whole-brain activity of <i>Caenorhabditis elegans</i> nematodes to understand how state-dependent network interactions gate sensory input at the motor and command neuron level.
-          - Supported a project investigating neural regulation of hypoxia reponses in <i>Danio rerio</i> zebrafish. 
+          - Supported a project investigating neural regulation of hypoxia responses in <i>Danio rerio</i> zebrafish. 
     - year: 2009.02 - 2010.06
       position: Undergraduate Research Assistant
       lab: "PI: Mirella Dapretto"
@@ -102,7 +104,7 @@
       description: 
         - Analyzed data and implemented strategies for optimizing the function of retail networks and public Wi-Fi in over 10,000 Starbucks stores across North America.
 
-- title: teaching and outreach experience
+- title: teaching and mentoring experience
   type: time_table
   contents:
     - year: 2023.11 - 2023.12
@@ -111,7 +113,7 @@
       institution: Salk Institute for Biological Studies
       location: La Jolla, California, United States
       description: 
-        - Reviewed anonymized applications based on a rubric that assessed need and career goals. 
+        - Reviewed anonymized applications from under-resourced undergraduate applicants, using a rubric that assessed need and career goals. 
     - year: 2023.06.12
       position: Developer & Presenter
       lab: "Workshop: Thinking like a Scientist"
@@ -126,16 +128,24 @@
       institution: Salk Institute for Biological Studies
       location: La Jolla, California, United States
       description: 
-        - Intensively mentored undergraduates from under-resourced insititutions to perform independent research in a 10-week program. 
+        - Intensively mentored undergraduates from under-resourced institutions to perform independent research in a 10-week program. 
         - Mentee investigated the genetic expression of oxidative stress genes in prey exposed to various predator conditions. 
+    - year: 2022.09 - 2022.11
+      position: Tutor
+      department: Chemistry
+      institution: Monarch School
+      location: San Diego, California, United States
+      description: 
+        - Tutored chemistry to students impacted by homelessness to compensate for shortage of science teachers.
     - year: 2022.05 - 2022.08
       position: Mentor
       department: Summer Undergraduate Research Fellowship (SURF)
       institution: Salk Institute for Biological Studies
       location: La Jolla, California, United States
       description: 
-        - Intensively mentored undergraduates from under-resourced insititutions to perform independent research in a 10-week program. 
+        - Intensively mentored undergraduates from under-resourced institutions to perform independent research in a 10-week program. 
         - Mentee investigated the role of a serotonin receptor in the resilience of prey exposed to predator early or late in life. 
+
     - year: 2020.09 - 2021.02
       position: Mentor
       department: Biology Undergraduate and Master's Mentorship Program (BUUMP)
@@ -149,7 +159,7 @@
       institution: University of California, San Diego 
       location: La Jolla, California, United States
       description: 
-        - Developed and taught a graduate-level introductory course designed to provide literacy in and exposure to computational techniques.
+        - Developed and taught a graduate-level introductory course designed to provide literacy and entry-level competency in computational techniques.
     - year: 2015.09 - 2015.12
       position: Teaching Assistant
       department: "Course: Introduction to Methods in Computational Neuroscience"
@@ -157,13 +167,6 @@
       location: La Jolla, California, United States
       description: 
         - Assisted in teaching a graduate-level course on mathematical foundations and applications of computational neuroscience methods.
-    - year: 2022.09 - 2022.11
-      position: Tutor
-      department: Chemistry
-      institution: Monarch School
-      location: San Diego, California, United States
-      description: 
-        - Tutored chemistry to students impacted by homelessness to compensate for shortage of science teachers.
 
 
 - title: publications
@@ -345,6 +348,8 @@
       - title: electronic lab notebook
         contents: 
         - Benchling
+      - title: inventory management
+        - Quartzy
       - title: command line
         contents: 
         - BASH
