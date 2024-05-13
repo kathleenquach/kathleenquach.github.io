@@ -349,6 +349,7 @@
         contents: 
         - Benchling
       - title: inventory management
+        contents: 
         - Quartzy
       - title: command line
         contents: 
