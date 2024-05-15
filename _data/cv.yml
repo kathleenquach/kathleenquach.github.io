@@ -4,7 +4,7 @@
     - name: name
       value: Kathleen T Quach
     - name: email
-      value: <a href="mailto:kquach@salk.edu">kquach@salk.edu</a>
+      value: <a href="mailto:kquach@salk.edu">kquach{at}salk.edu</a>
     - name : summary
       value: A behavioral neuroscientist with ten years of independent research experience, specializing in the application of ethological, neuroeconomic, and other behavioral frameworks to analyze decision-making processes of predator-prey interactions. 
 
@@ -173,9 +173,9 @@
   type: time_table
   contents:
     - publink: <a href="../publications/">Click here to view a detailed list of publications</a>
-    - pubtitle: Interdependence between SEB-3 and NLP-49 peptides shifts across predator-induced defensive behavioral modes in <i>Caenorhabditis elegans</i>
+    - pubtitle: <a href="https://www.biorxiv.org/content/10.1101/2024.05.13.593913v1">Interdependence between SEB-3 and NLP-49 peptides shifts across predator-induced defensive behavioral modes in <i>Caenorhabditis elegans</i>
       author: <u>Kathleen T Quach</u>, Gillian A Hughes, Sreekanth H Chalasani
-      journal: submitted to <i>eLife,</i> 2024
+      journal: <i>bioRxiv,</i> 2024
     - pubtitle: <a href="https://doi.org/10.1016/j.cub.2022.02.033">Flexible reprogramming of <i>Pristionchus pacificus</i>  motivation for attacking <i>Caenorhabditis elegans</i> in predator-prey competition</a>
       author: <u>Kathleen T Quach</u>, Sreekanth H Chalasani
       journal: <i>Current Biology,</i> 2022
