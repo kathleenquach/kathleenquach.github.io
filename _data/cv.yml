@@ -30,7 +30,7 @@
 - title: research experience
   type: time_table
   contents:
-    - year: 2019.09 - 2024.04
+    - year: 09.2019 - 04.2024
       position: Postdoctoral Fellow
       lab: "PI: Sreekanth Chalasani"
       department: Molecular Neurobiology
@@ -41,7 +41,7 @@
         - Integrated concepts from predatory imminence theory and prey refuge theory to build a behavioral framework that can be used to predict, elicit, and interpret <i>Caenorhabditis elegans</i> defensive behaviors in response to changes in various dimensions of perceived predation risk. 
         - Conducted behavioral experiments on genetic mutants and transgenic strains to identify changes in interdependence between signaling partners across stages of defensive behaviors. 
         - Supervised a research assistant. 
-    - year: 2012.07 - 2019.09
+    - year: 07.2012 - 09.2019
       position: Graduate Student
       lab: "PI: Sreekanth Chalasani"
       department: Molecular Neurobiology
@@ -56,7 +56,7 @@
           contents: 
           - Co-led a project investigating whole-brain activity of <i>Caenorhabditis elegans</i> nematodes to understand how state-dependent network interactions gate sensory input at the motor and command neuron level.
           - Supported a project investigating neural regulation of hypoxia responses in <i>Danio rerio</i> zebrafish. 
-    - year: 2009.02 - 2010.06
+    - year: 02.2009 - 06.2010
       position: Undergraduate Research Assistant
       lab: "PI: Mirella Dapretto"
       department: Psychiatry and Biobehavioral Sciences
@@ -66,7 +66,7 @@
         - Conducted independent research investigating abnormal effective connectivity during emotional face processing in children with autism spectrum disorder.
         - Applied dynamic causal modeling to fMRI time series data to estimate directionality and strength of coupling between brain regions during viewing of emotional faces. 
         - Developed methods for automating data entry of survey inputs from test subjects.
-    - year: 2010.01 - 2010.06
+    - year: 01.2010 - 06.2010
       position: Undergraduate Research Assistant
       lab: "PI: Jack Van Horn"
       department: Neurology
@@ -74,7 +74,7 @@
       location: Los Angeles, California, United States
       description: 
         - Designed graphical user interface elements for <i>Invizian</i> neuroinformatics software.
-    - year: 2009.03 - 2010.06
+    - year: 03.2009 - 06.2010
       position: Undergraduate Research Assistant
       lab: "PI: Susan Bookheimer"
       department: Psychiatry and Biobehavioral Sciences
@@ -84,7 +84,7 @@
         - Scored eye gaze behavior of 36-month old infants with autism spectrum disorder and their siblings during social interaction with caregivers and strangers.
         - Drew regions of interests to quantify how much time is spent looking at facial, body, and background features. 
         - Developed code for automated parsing of Tobii software output. 
-    - year: 2007.06 - 2009.09
+    - year: 06.2007 - 09.2009
       position: Undergraduate Research and Therapist Assistant
       lab: "PI: Jeffrey Wood"
       department: Child and Adolescent Psychiatry
@@ -100,21 +100,21 @@
     - position: Implementation Specialist 
       institution: Starbucks Coffee Company
       location: Seattle, Washington, United States
-      year: 2011.12 - 2012.06
+      year: 12.2011 - 06.2012
       description: 
         - Analyzed data and implemented strategies for optimizing the function of retail networks and public Wi-Fi in over 10,000 Starbucks stores across North America.
 
 - title: teaching and mentoring experience
   type: time_table
   contents:
-    - year: 2023.11 - 2023.12
+    - year: 11.2023 - 12.2023
       position: Application Reviewer
       department: Summer Undergraduate Research Fellowship (SURF)
       institution: Salk Institute for Biological Studies
       location: La Jolla, California, United States
       description: 
         - Reviewed anonymized applications from under-resourced undergraduate applicants, using a rubric that assessed need and career goals. 
-    - year: 2023.06.12
+    - year: "06.2023"
       position: Developer & Presenter
       lab: "Workshop: Thinking like a Scientist"
       department: Summer Undergraduate Research Fellowship (SURF)
@@ -122,7 +122,7 @@
       location: La Jolla, California, United States
       description: 
         - Developed and presented a workshop introducing undergraduate interns to the values and philosophy guiding scientific research, and the principles of fostering a scientific personality resilient to failures and biases.
-    - year: 2023.05 - 2023.08
+    - year: 05.2023 - 08.2023
       position: Mentor
       department: Summer Undergraduate Research Fellowship (SURF)
       institution: Salk Institute for Biological Studies
@@ -130,14 +130,14 @@
       description: 
         - Intensively mentored undergraduates from under-resourced institutions to perform independent research in a 10-week program. 
         - Mentee investigated the genetic expression of oxidative stress genes in prey exposed to various predator conditions. 
-    - year: 2022.09 - 2022.11
+    - year: 09.2022 - 11.2022
       position: Tutor
       department: Chemistry
       institution: Monarch School
       location: San Diego, California, United States
       description: 
         - Tutored chemistry to students impacted by homelessness to compensate for shortage of science teachers.
-    - year: 2022.05 - 2022.08
+    - year: 05.2022 - 08.2022
       position: Mentor
       department: Summer Undergraduate Research Fellowship (SURF)
       institution: Salk Institute for Biological Studies
@@ -146,21 +146,21 @@
         - Intensively mentored undergraduates from under-resourced institutions to perform independent research in a 10-week program. 
         - Mentee investigated the role of a serotonin receptor in the resilience of prey exposed to predator early or late in life. 
 
-    - year: 2020.09 - 2021.02
+    - year: 09.2020 - 02.2021
       position: Mentor
       department: Biology Undergraduate and Master's Mentorship Program (BUUMP)
       institution: University of California, San Diego
       location: La Jolla, California, United States
       description: 
         - Mentored biology undergraduate students from underrepresented minorities.
-    - year: 2016.03 - 2016.06
+    - year: 03.2016 - 06.2016
       position: Course Developer & Instructor
       department: "Course: Fundamentals of Statistics and Computation for Neuroscientists"
       institution: University of California, San Diego 
       location: La Jolla, California, United States
       description: 
         - Developed and taught a graduate-level introductory course designed to provide literacy and entry-level competency in computational techniques.
-    - year: 2015.09 - 2015.12
+    - year: 09.2015 - 12.2015
       position: Teaching Assistant
       department: "Course: Introduction to Methods in Computational Neuroscience"
       institution: University of California, San Diego
@@ -175,7 +175,7 @@
     - publink: <a href="../publications/">Click here to view a detailed list of publications</a>
     - pubtitle: <a href="https://www.biorxiv.org/content/10.1101/2024.05.13.593913v1">Interdependence between SEB-3 and NLP-49 peptides shifts across predator-induced defensive behavioral modes in <i>Caenorhabditis elegans</i>
       author: <u>Kathleen T Quach</u>, Gillian A Hughes, Sreekanth H Chalasani
-      journal: <i>bioRxiv,</i> 2024
+      journal: <i>bioRxiv</i> (under review at <i>eLife</i>), 2024
     - pubtitle: <a href="https://doi.org/10.1016/j.cub.2022.02.033">Flexible reprogramming of <i>Pristionchus pacificus</i>  motivation for attacking <i>Caenorhabditis elegans</i> in predator-prey competition</a>
       author: <u>Kathleen T Quach</u>, Sreekanth H Chalasani
       journal: <i>Current Biology,</i> 2022
@@ -189,19 +189,19 @@
 - title: awards
   type: time_table
   contents:
-    - year: 2022.12 - 2024.11
+    - year: 12.2022 - 11.2024
       basic: Maximillian E. and Marion O. Hoffman Foundation Award
-    - year: 2020.06 - 2022.06
+    - year: 06.2020 - 06.2022
       basic: Paul F. Glenn Center for Biology of Aging Research Fellow
-    - year: 2018.07 - 2019.07
+    - year: 07.2018 - 07.2019
       basic: Salk Women and Science Award
-    - year: 2018.03 - 2019.03
+    - year: 03.2018 - 03.2019
       basic: Mary K. Chapman Foundation Award   
-    - year: 2018.10 - 2018.03
+    - year: 10.2018 - 03.2018
       basic: Jesse and Caryl Philips Foundation Award 
-    - year: 2016.05.21
+    - year: "05.2016"
       basic: UCSD Neurosciences Graduate Teaching Award
-    - year: 2014.09 - 2017.08
+    - year: 09.2014 - 08.2017
       basic: National Science Foundation Graduate Research Fellow
 
 - title: skills
@@ -302,8 +302,9 @@
       description: 
       - title: scientific computing
         contents:
-          - MATLAB
           - R
+          - MATLAB
+          - Python
       - title: image acquisition and processing
         contents: 
           - ImageJ
